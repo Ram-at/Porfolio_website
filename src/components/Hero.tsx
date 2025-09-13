@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { ChevronDown, Github, Linkedin, Mail, MapPin } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import profileImage from '@/assets/profile-image.jpg';
+
 
 export function Hero() {
   const scrollToNext = () => {
